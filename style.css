@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(41, 41, 41);
+    align-content: center;
+    align-content: stretch;
+    align-content: flex-start;
+}
+h2 {
+    color: rgb(30, 30, 255);
+    font-size: xxx-large;
+}
+div {
+    color: rgb(238, 230, 230);
+    font-size: large;
+}
+div1 {
+    color: rgb(41, 41, 41);
+}
+img {
+    width: 300px;
+    height: 300px;
+    align-content: center;
+}
+p {
+    text-align: center;
+}
+
+a {
+    background-color: seagreen;
+    color: rgb(30, 30, 255);
+    font-size: large;
+}
+
